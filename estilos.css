@@ -1,19 +1,11 @@
-h1{
-    font-size: 60px;
-}
+h1{font-size: 60px;}
 
-h3{
-    font-size: 100px;
-}
+h3{font-size: 100px;}
 
-.familiaTexto{
-    font-family: "papyrus";
-    font-size: 20px;
-    color: rgb(255, 0, 221);
-    text-align: justify;
-}
+.familiaTexto{Font-family: "segoeui"; font-size: 20px; color: rgb(255, 255, 255); text-align: justify;}
 
+.bodyprincipal{background-color: rgb(0, 0, 0)}
 
-body{
-    background-color: rgb(0, 238, 255)
-}
+.headerverde{background-color: darkgreen;}
+
+.headerazul{background-color: blue;}
