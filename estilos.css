@@ -1,11 +1,18 @@
-h1{font-size: 60px;}
+h1 {font-size: 60px; text-align: center;}
 
-h3{font-size: 100px;}
+h3 {font-size: 100px;}
 
-.familiaTexto{Font-family: "segoeui"; font-size: 20px; color: rgb(255, 255, 255); text-align: justify;}
+.programadopor {font-family: "segoeui"; font-size: 30px; color: green; text-align: center ;}
+ 
+.familiaTexto {Font-family: "segoeui"; font-size: 20px; color: rgb(255, 255, 255); text-align: justify;}
 
-.bodyprincipal{background-color: rgb(0, 0, 0)}
+.bodyprincipal {background-color: rgb(0, 0, 0)}
 
-.headerverde{background-color: darkgreen;}
+.headerverde {background-color: darkgreen;}
 
-.headerazul{background-color: blue;}
+.headerazul {background-color: blue;}
+
+.imagenfondo {background-image: url(img/Medellin.jpg); height: 470px; background-attachment: fixed;}
+
+.textoblanco {color: white;}
+
